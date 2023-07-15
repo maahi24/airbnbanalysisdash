@@ -7,11 +7,11 @@ property - whether apartment or house? will be selected as the best based on the
 
 
 
-# Analytical Context:
+### Analytical Context:
 We mainly focused on the listing, demographic, and venues dataset as it has crucial information for us to extract to answer this question, and using the real estate dataset to study the trend of property prices over the years in the US cities.
 
 
-# Business Context: 
+### Business Context: 
 The goal of real estate investment is to put money to work today and allow it to increase so that you have more money in the future. In this data assignment, we will assist real estate companies to understand which zipcodes are more profitable for short-term rentals.
 
 
