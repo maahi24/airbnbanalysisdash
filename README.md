@@ -37,3 +37,7 @@ Zipcodes in Manhattan and Brooklyn have also seen high property price rises in t
 
 Price and Availability are not inversely proportional. Consumers are ready to pay prices for better locations and other facilities provided to them.
 
+
+
+### Data visualization 
+This project showcases an interactive dashboard built to explore and visualize the New York Airbnb dataset. The goal of the project is to provide a user-friendly interface that allows users to gain insights into the Airbnb listings in New York City, analyze pricing trends, and make informed decisions as potential hosts or guests.
